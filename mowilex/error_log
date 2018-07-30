@@ -1,0 +1,4 @@
+[30-Jan-2018 03:03:07 UTC] PHP Fatal error:  Cannot redeclare Data_asset::index() in /home/rosadixy/public_html/mowilex/application/controllers/asset/Data_asset.php on line 32
+[30-Jan-2018 03:03:19 UTC] PHP Fatal error:  Cannot redeclare Data_asset::index() in /home/rosadixy/public_html/mowilex/application/controllers/asset/Data_asset.php on line 32
+[30-Jan-2018 03:03:20 UTC] PHP Fatal error:  Cannot redeclare Data_asset::index() in /home/rosadixy/public_html/mowilex/application/controllers/asset/Data_asset.php on line 32
+[30-Jan-2018 03:03:21 UTC] PHP Fatal error:  Cannot redeclare Data_asset::index() in /home/rosadixy/public_html/mowilex/application/controllers/asset/Data_asset.php on line 32
